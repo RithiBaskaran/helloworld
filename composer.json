@@ -7,7 +7,7 @@
             "email": "baskar2271@yahoo.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "alpha",
     "require": {
 		"php": ">=5.3.0"
 	},
